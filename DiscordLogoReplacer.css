@@ -1,0 +1,6 @@
+div.wordmarkWindows-1v0lYD > svg{
+    visibility: hidden;
+}
+div.wordmarkWindows-1v0lYD::before{
+content: url(https://raw.githubusercontent.com/fishbone04/DiscordLogoReplacer/a3a9a9058cdbd8784a012d9c4c6cfebcfa77d6cd/logo.svg)   
+}
