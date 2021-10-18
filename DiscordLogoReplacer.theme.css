@@ -1,3 +1,11 @@
+/**
+ * @name DiscordLogoReplacer
+ * @author fishbone04
+ * @version 0.1
+ * @description A simple css to replace the disgusting discord logo
+ * @source https://github.com/fishbone04/DiscordLogoReplacer
+*/
+
 div.wordmarkWindows-1v0lYD > svg{
     visibility: hidden;
 }
